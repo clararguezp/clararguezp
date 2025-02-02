@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 My name is Clara, nice to meet you!
+#### I am Junior Software Engineer from Spain
 
-<!--
-**clararguezp/clararguezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C++ / JAVA / SQL / JS / HTML / CSS / C#
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills 
+- 🌱 I’m currently learning Progressive Web Apps (PWA) 
+- 📫 How to reach me: clararp2001@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/www.linkedin.com/in/clararodriguezprieto/)  
+
+
